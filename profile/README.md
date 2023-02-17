@@ -2,7 +2,7 @@
 <h1>
 <img align="right" width="200" height="200" src="https://www.fiware.org/style/imgs/FIWARE_WrongSearch.png"/>
 Welcome to the FIWARE Mirror Repos</h1>
-<h3>These are Testing repos, and are not be the FIWARE repos you are looking for</h2><br>
+<h3>These are Testing repos, and are not the FIWARE repos you are looking for</h2><br>
   <p>
    <b>FIWARE</b> is an open standards for context data management. This accounts just holds a series of forked repositories of the components
    found in the  <b>FIWARE Catalogue</b> and is used for test purposes only. If you are looking for the cutting edge code repositories of the
